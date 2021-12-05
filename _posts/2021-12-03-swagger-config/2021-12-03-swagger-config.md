@@ -178,7 +178,7 @@ public class WebConfiguration implements WebMvcConfigurer {
 본 문서는 Swagger 3.0.0으로 진행하여 /swagger-ui/index.html 이지만, 2.x.x 버전으로 테스트를 진행하는 경우 /swagger-ui.html 으로 확인해야 한다.
 
 
-![Swagger 확인]({{site.url}}/assets/images/posts/swagger/swagger_02.png)
+![Swagger 확인](/assets/images/posts/swagger/swagger_02.png)
 
 
 <br>
@@ -260,10 +260,10 @@ public class Student {
 
 이후 재기동하여 확인
 
-![Swagger API 확인]({{site.url}}/assets/images/posts/swagger/swagger_03.png)
+![Swagger API 확인](/assets/images/posts/swagger/swagger_03.png)
 
 
-![Swagger API Model 확인]({{site.url}}/assets/images/posts/swagger/swagger_04.png)
+![Swagger API Model 확인](/assets/images/posts/swagger/swagger_04.png)
 
 <br><br>
 
