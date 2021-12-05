@@ -30,10 +30,10 @@
     {%- assign banner_min_height = banner_min_height | default: banner_height -%}
     html .page-banner {
       height:  200px;
-      min-height: {{ banner_min_height }};
+      min-height: 200px;
     }
     html[data-scroll-status="top"] .page-banner {
-      height: {{ banner_height }};
+      height: 200px;
     }
   </style>
   {%- endif -%}
@@ -100,8 +100,7 @@
           })();
         </script>
       {%- else -%}
-        <div style="background-image: url({{ banner_image }})"></div>
-        <img class="img-placeholder" src="{{ banner_image }}">
+        <!-- 메인 배너 이미지 -->
       {%- endif -%}
     </div>
     <div class="wrapper">
