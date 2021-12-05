@@ -1,10 +1,10 @@
 ---
-title: 도커 배포 방법
-author: 이강운
-date: 2021-12-04
 layout: post
+title: Docker 배포
+author: 이강운
+subtitle: Docker를 활용한 Springboot 어플리케이션 배포
 categories: docker
-tags: [docker][spring]
+tags: [docker]
 ---
 
 개요
