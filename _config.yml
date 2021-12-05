@@ -56,6 +56,8 @@ favicon: "" # the favicon for your site
 yat:
   date_format: "%b %d, %Y"
 
+permalink: /:year/:month/:day/:title/
+
 # If you want more debug log, you can set true
 # debug: false
 
