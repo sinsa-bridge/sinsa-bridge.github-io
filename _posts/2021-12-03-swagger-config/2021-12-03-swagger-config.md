@@ -120,7 +120,7 @@ public class StudentController {
 
 ***Step.04 API 통신 확인***
 
-![학생 전체 조회]("{{site.url}}/assets/images/posts/swagger/swagger_01.png")
+![학생 전체 조회](/assets/images/posts/swagger/swagger_01.png)
 
 <br><br>
 
@@ -177,9 +177,9 @@ public class WebConfiguration implements WebMvcConfigurer {
 이후 서비스를 기동시켜 **[호스트명]/swagger-ui/index.html**로 접속하여 Swagger의 동작을 확인한다.<br>
 본 문서는 Swagger 3.0.0으로 진행하여 /swagger-ui/index.html 이지만, 2.x.x 버전으로 테스트를 진행하는 경우 /swagger-ui.html 으로 확인해야 한다.
 
---
+
 ![Swagger 확인]({{site.url}}/assets/images/posts/swagger/swagger_02.png)
---
+
 
 <br>
 현재는 문서의 제목, 설명 정도만 설정하였기 때문에 자세한 REST API의 기능은 확인할 수 없다.
