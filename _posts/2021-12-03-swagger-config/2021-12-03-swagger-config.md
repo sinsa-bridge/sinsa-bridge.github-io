@@ -120,7 +120,7 @@ public class StudentController {
 
 ***Step.04 API 통신 확인***
 
-![학생 전체 조회]({{"/assets/images/_posts/swagger/swagger_01.png"|relative_url}})
+![학생 전체 조회]("/assets/images/posts/swagger/swagger_01.png")
 
 <br><br>
 
