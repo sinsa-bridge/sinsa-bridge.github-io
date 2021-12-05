@@ -122,7 +122,7 @@ public class StudentController {
 
 ---
 
-![학생 전체 조회](swagger_01.png)
+![학생 전체 조회]({{site.url}}/assets/images/_posts/swagger/swagger_01.png)
 
 ---
 <br><br>
@@ -261,7 +261,7 @@ public class Student {
 
 이후 재기동하여 확인
 
-![Swagger API 확인](/assets/images/_posts/swagger/swagger_03.png)
+![Swagger API 확인]({{site.url}}/assets/images/_posts/swagger/swagger_03.png)
 
 
 ![Swagger API Model 확인](/assets/images/_posts/swagger/swagger_04.png)
